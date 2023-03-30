@@ -1,0 +1,14 @@
+.cart{
+    background-color:  rgba(255, 153, 0, 0.3);
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+}
+.cartDetails{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
